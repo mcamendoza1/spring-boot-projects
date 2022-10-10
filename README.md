@@ -8,6 +8,8 @@ This is a collection of spring boot projects.
 - Maven 3+
 - Spring-boot 2.7.4
 
+## Projects
+
 ### [1-Hello World](1-hello-world)
 
 Create this project using [`Spring Initializr`](https://start.spring.io/).
@@ -26,3 +28,5 @@ To test click the link or copy and paste the url on a browser.
 
 - [`http://localhost:8080/hello`](http://localhost:8080/hello)
 - [`http://localhost:8080/hello?name=Melvin`](http://localhost:8080/hello?name=Melvin)
+
+## 2-Connect to Database
