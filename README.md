@@ -25,4 +25,4 @@ mvnw spring-boot:run
 To test click the link or copy and paste the url on a browser. 
 
 - [`http://localhost:8080/hello`](http://localhost:8080/hello)
-- [`http://localhost:8080/hello?name=Melvin`](`http://localhost:8080/hello?name=Melvin`)
+- [`http://localhost:8080/hello?name=Melvin`](http://localhost:8080/hello?name=Melvin)
